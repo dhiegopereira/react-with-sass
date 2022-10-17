@@ -1,0 +1,5 @@
+@import './fonts.scss';
+
+.title {
+  @include bgcolor($colorPrimary);
+}
